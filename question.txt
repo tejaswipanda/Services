@@ -1,0 +1,59 @@
+core java  4/5
+
+str = "10 abc dfg 200"
+o/p: 210
+solve using java 8 streams
+
+set<Character> list = new hashset<>(arrays.aslist('0'.... '9'));
+ Char [] ch = str.tochararray();
+
+Set<Character> list2 = new Arraylist <>(arrays.asset(ch));
+
+predicate <Character> pr
+ = a -> list.contains(a)
+
+set<> result = list.stream().fillter(pr).collect(Collector..tolist)
+
+string s = "";
+for (Character c : result)
+{
+Object 0 = c;
+String s =s.concat(o.tostring()) 
+}
+
+syso s; 
+
+
+HashMap <integer , integer> h = {}
+
+str1="aaltimetrikabc" - ch
+str2="abcalti" - ch2
+o/p: 4(length of alti)
+for (i=0; i<ch.length-1 ; i++ )
+String resullt = ""
+{
+if (str2.charat(i) == ch[i])
+{
+
+Object o = str2..charat(i)
+string result = result.conccat(str2)
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
